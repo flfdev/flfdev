@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @flfdev
+- 👋 Hi, I’m @Lester Arigo
 - 👀 I’m interested in gaming and coding
 - 🌱 I’m currently learning HTML, CSS, c#
 - 💞️ I’m looking to collaborate on ...
